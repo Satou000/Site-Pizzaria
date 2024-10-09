@@ -1,0 +1,10 @@
+h1{
+    font-size: 40px;
+    font-family: var(--style-font);
+    margin: 16px;
+}
+.txt-medium {
+    font-size: 18px;
+    font-family: var(--second-font);
+    margin: 16 px;
+}

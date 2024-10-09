@@ -1,0 +1,8 @@
+button {
+    width: 15em;
+    height: 30px;
+    background-color: var(--cor-preta);
+    color: var(--cor-branca);
+    border-radius: 25px;
+    margin: 16px;
+}
